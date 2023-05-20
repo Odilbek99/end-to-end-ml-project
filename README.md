@@ -1,7 +1,9 @@
 # Student Performance Indicator
 
+![GitHub repo size](https://img.shields.io/github/repo-size/student-performance-indicator-end-to-end-ml/)
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://example.com)
 [![License](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/licenses/MIT)
+
 
 This project is an end-to-end machine learning solution for evaluating student performance indicators. It encompasses advanced CI/CD pipelines and visually superior solutions that exceed industry standards in deployment and other professional aspects.
 
