@@ -22,7 +22,7 @@ This project is an end-to-end machine learning solution for evaluating student p
 
 Follow these steps to install and set up the project:
 
-1. Clone the repository: `git clone https://github.com/your-username/student-performance-indicator.git`
+1. Clone the repository: `git clone https://github.com/Odilbek99/student-performance-indicator-end-to-end-ml.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Configure the necessary environment variables (if any)
 4. Run the project: `python app.py`
