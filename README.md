@@ -1,6 +1,9 @@
 # Student Performance Indicator
 
-![GitHub repo size](https://img.shields.io/github/repo-size/student-performance-indicator-end-to-end-ml/)
+
+![Repo Size](https://img.shields.io/github/repo-size/Odilbek99/student-performance-indicator-end-to-end-ml)
+![GitHub stars](https://img.shields.io/github/stars/Odilbek99/student-performance-indicator-end-to-end-ml?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Odilbek99/student-performance-indicator-end-to-end-ml?style=social)
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://example.com)
 [![License](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/licenses/MIT)
 
